@@ -71,7 +71,7 @@ const res=    cryptoData.filter(item => {
       {nosearchRes ? <p className='text-3xl font-bold py-4'>No results found</p> : null}
       {searchRes.length > 0 ? <h1 className='text-3xl font-bold py-4'>Search Results</h1> : null}
       {searchRes.length > 0 ? <TableView data={searchRes? searchRes : []} key={"searched_crypto_data"}/> : null}
-    {searchRes?.length>0? null : <TableView data={cryptoData} key={"crypto_data"}/>} 
+    {searchRes?.length>0? null : nosearchRes? null: <TableView data={cryptoData} key={"crypto_data"}/>} 
     </>
 
   )

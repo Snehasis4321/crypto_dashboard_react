@@ -2,6 +2,9 @@
 
 ### 🎉 Build with React + Vite + TailwindCSS
 
+### 🌏 [Visit Site Live](https://orange-mud-035a22410.5.azurestaticapps.net/)
+
+
 ### 🚀 Features
 
 - Get latest crypto data from CoinGecko API
