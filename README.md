@@ -2,8 +2,8 @@
 
 ### 🎉 Build with React + Vite + TailwindCSS
 
-### 🌏 [Visit Site Live](https://orange-mud-035a22410.5.azurestaticapps.net/)
-
+### 🌏 [Visit Site Live](https://crypto-dashboard-react-4wkh.onrender.com/)
+site hosted live on [render.com](https://dashboard.render.com)
 
 ### 🚀 Features
 
